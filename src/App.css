@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.on {
+  background   : yellow;
+  border-radius: 50%;
+  width        : 100px;
+  height       : 100px;
+  margin-left  : auto;
+  margin-right : auto;
+  margin-top   : 50px;
+}
+
+.off {
+  background   : white;
+  border-radius: 50%;
+  width        : 100px;
+  height       : 100px;
+  margin-left  : auto;
+  margin-right : auto;
+  margin-top   : 50px;
+}
